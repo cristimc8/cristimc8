@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=%3Cscript%3Ealert(1)%3C%2Fscript%3E;ur+machine+now+hcked)](https://heimdallr.ro/)
-
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am running a cybersecurity startup focused on identifying and stopping phishing attacks.\
