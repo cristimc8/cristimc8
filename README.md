@@ -1,10 +1,4 @@
-### Hi there 👋
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I am running a cybersecurity startup focused on identifying and stopping phishing attacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at Babes Bolyai University of Cluj, Romania.\
-⚡ &nbsp;Check me out on [LinkedIn](https://www.linkedin.com/in/mold8van/)!
+I like phishing
 
 ### 🛠 &nbsp;Tech Stack
 
